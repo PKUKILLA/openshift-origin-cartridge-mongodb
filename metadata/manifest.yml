@@ -5,6 +5,7 @@ Display-Name: MongoDB NoSQL Database 2.2
 Description: "MongoDB is a scalable, high-performance, open source NoSQL database."
 Version: '2.2'
 Versions: [2.2]
+Source-Url: https://github.com/PKUKILLA/openshift-origin-cartridge-mongodb.git
 Cartridge-Version: 0.2.1
 Compatible-Versions: [0.2.0]
 Cartridge-Vendor: engapa
